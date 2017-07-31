@@ -25,7 +25,7 @@ Steps to run:
 1. Provide the kafka instances for Bootstrap servers (kafka_config.properties).
 2. Build the project using-> sbt
 3. Once completed type -> run to start the project
-4. Try to post a json message using http://localhost/neel/ingest
-5. open finatra admin console on http://localhost:9990 for checking the activity for request hit
+4. Try to post a json message using http://localhost:8080/neel/ingest
+5. Open finatra admin console on http://localhost:9990 for checking the activity for request hit
 
 
