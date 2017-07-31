@@ -1,4 +1,4 @@
-# Finatra-HTTP-protocol
+# IoT-HTTP-protocol
 Scala based HTTP Protocol Adapter for IoT Ingestion Layer
 
 In IoT platform setting up the space using less foot-print in ingestion layers is a great way to build the complete platform. There are various ways to have a light weight Rest service, which can be used for HTTP protocol layer. This layer will communicate over TCP layer.
